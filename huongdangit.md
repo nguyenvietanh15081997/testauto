@@ -10,8 +10,10 @@ project trên nền tảng server <github, gitlab>
 4. Branch
 Nhánh 
 5. Merge
-6. Push: đẩy thay đổi từ git local -> git server
+6. Push: đẩy thay đổi từ git local ->
 7. Pull: lấy code mới nhất từ git server -> git local
+
+8.
 
 
 
